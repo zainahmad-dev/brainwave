@@ -33,7 +33,7 @@ const Hero = () => {
             with Brainwave, the open AI chat app. 
         </p>
         <Button herf="/pricing" white>
-        Get Started
+        Get Started 
         </Button>
         </div>
         <div className="relative max-w-[23rem] mx-auto md:max-w-5xl xl:mb-24">
